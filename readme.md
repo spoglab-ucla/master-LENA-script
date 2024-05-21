@@ -29,13 +29,13 @@ If no command line arguments are provided, the script will default to processing
 1. **Processing a Single File:**
 
    ```bash
-   python master_LENA.py -f path/to/your/file.its
+   python master_LENA_v2.py -f path/to/your/file.its -o path/to/output/dir
    ```
 
 2. **Processing All Files in a Directory:**
 
    ```bash
-   python master_LENA.py -d path/to/your/directory
+   python master_LENA_v2.py -d path/to/your/directory -o path/to/output/dir
    ```
 
 ### Output
